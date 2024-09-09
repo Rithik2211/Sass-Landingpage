@@ -1,7 +1,9 @@
+import Header from "@/sections/Header";
+
 export default function Home() {
   return (
-  <h1>
-    Helo EcoSync!
-  </h1>
+    <main>
+      <Header />
+    </main>
   );
 }
