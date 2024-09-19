@@ -6,7 +6,7 @@ import {twMerge} from 'tailwind-merge';
 const dmsans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sass landing Page",
+  title: "Sass Page",
   description: "Created by Rithik",
 };
 
